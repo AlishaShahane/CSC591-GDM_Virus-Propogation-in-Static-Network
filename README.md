@@ -1,5 +1,5 @@
 # Virus-Propogation-in-Static-Network
-## The notebook has implementation for the following,
+### The notebook has implementation for the following,
   1. Analyze and understand a virus propagation model.
   2. Calculate the effective strength of a virus.
   3. Simulate the propagation of a virus in a network.
@@ -19,3 +19,7 @@ Please keep the static.network graph file in the same folder as the notebook. Us
   - Transmission probabilities β1 = 0.20 and β2 = 0.01
   - Healing probabilities δ1 =0.70 and δ2 = 0.60
   - Number of available vaccines k = 200
+
+### Group Members:
+  1. Alisha Shahane
+  2. Mrunmayi Deshpande
